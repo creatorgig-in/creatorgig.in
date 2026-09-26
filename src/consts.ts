@@ -24,6 +24,8 @@ export const NAV_LINKS = [
   { label: 'How it works', href: '#how' },
   { label: 'AI', href: '#ai' },
   { label: 'For business', href: '#for-business' },
+  { label: 'Find influencers', href: 'https://app.creatorgig.in/discover/influencers' },
+  { label: 'Our brands', href: 'https://app.creatorgig.in/discover/brands' },
 ] as const;
 
 export const PLATFORMS = ['Instagram', 'YouTube', 'Facebook'] as const;
