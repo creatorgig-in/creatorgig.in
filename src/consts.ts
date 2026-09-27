@@ -22,7 +22,6 @@ export const APP = {
 export const NAV_LINKS = [
   { label: 'Features', href: '#features' },
   { label: 'How it works', href: '#how' },
-  { label: 'AI', href: '#ai' },
   { label: 'For business', href: '#for-business' },
   { label: 'Find influencers', href: 'https://app.creatorgig.in/discover/influencers' },
   { label: 'Our brands', href: 'https://app.creatorgig.in/discover/brands' },
